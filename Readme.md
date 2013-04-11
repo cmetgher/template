@@ -15,8 +15,8 @@ See more details in Shower [readme](https://github.com/shower/shower#readme). Fo
 
 To get Shower template run following command:
 
-```
-git clone --recursive git@github.com:shower/template.git
+``` bash
+git clone --recursive git://github.com/shower/template.git
 ```
 
 Or you can just download [latest version](http://shwr.me/template.zip) as ZIP file.
