@@ -1,4 +1,4 @@
-# Shower presentation example
+# Shower presentation template
 
 Based on [shower](https://github.com/shower/shower) engine and [ribbon](https://github.com/shower/ribbon) theme.
 
